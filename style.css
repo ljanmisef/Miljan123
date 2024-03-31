@@ -1,0 +1,107 @@
+
+nav{
+    background-color: #E6A4B4 !important;
+} 
+.Onama h1{
+    color: #E6A4B4;
+    
+}
+.Onama {
+    background-color: #FFF8E3;
+}
+.Onama p{
+   color: gray;
+   font-size: 18px;
+}
+.b{
+    background-color: #FFF3C7;
+}
+.butt{
+    background-color: #E6A4B4;
+}
+ul{
+    list-style: none;
+}
+.rv{
+    background-color: #FEC7B4;
+}
+.rv p{
+    font-size: 20px;
+}
+.rv h3{
+    padding: 18px;
+}
+.naslov{
+    color:gray ;
+}
+.dugme{
+    background-color:#F7418F !important;
+    border: none!important;
+}
+nav img{
+    height: 100px;
+}
+.naslovT{
+    color: #F7418F;
+}
+.podnaslov{
+    color: #F7418F;
+}
+
+.timC{
+    background-color: #E6A4B4;
+}
+.aut p{
+    font-size: 20px;
+}
+
+ @media screen and (max-width:1201px) {
+    .Onama p {
+        margin: 5px!important;
+        padding: 0px!important;
+        font-size: 16px!important;
+    }
+    
+    body{
+        background-color: aquamarine;
+    }
+}
+@media screen and (max-width:991px){
+    .logo img{
+        height: 70px;
+    }
+    
+    .Onama{
+       
+        margin-bottom: 25px!important;
+    }
+} 
+@media screen and (max-width:376px){
+    .Onama p {
+        
+        font-size: 14px!important;
+    }
+    
+}
+@media screen and (max-width:426px){
+    
+        
+        .rv p{
+            font-size: 15px!important;
+        }
+    
+}
+@media screen and (max-width:576px){
+    
+        
+    .rv {
+        margin-bottom: 0px!important;
+    }
+    .rd{
+        margin-bottom: 0px!important;
+    }
+    .onm{
+        margin-bottom: 0px!important;
+    }
+
+}
